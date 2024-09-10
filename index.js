@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Team KeyGen"];
+const statusMessages = ["AthlixGG"];
 
 
 let currentIndex = 0;
